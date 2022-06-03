@@ -1,0 +1,1831 @@
+Maria Sophia da Mata
+2 1 0 1 2 2 0 0 2 2 0 1 0
+Nathan Costa
+0 0 2 1 2 1 2 0 1 1 1 1 0
+Daniel Luis Notari
+0 0 2 1 1 1 1 1 2 2 0 0 2
+Maria Sophia Costela
+0 0 2 1 1 1 1 1 2 2 0 0 2
+Erick Cunha
+2 1 2 1 2 1 1 2 2 0 0 1 2
+Luiza da Rosa
+2 2 0 0 0 2 2 1 1 2 2 1 1
+Kevin Gonçalves
+0 0 1 0 0 1 2 0 1 0 2 0 0
+Vicente Lima
+2 0 1 0 1 2 2 1 2 0 1 0 2
+Luigi Cardoso
+Clarice Cavalcanti
+0 2 0 2 2 1 0 2 1 0 2 0 0
+Levi Nunes
+0 1 2 0 2 0 2 2 0 0 1 2 0
+Ana Júlia Oliveira
+2 1 0 1 2 2 0 2 2 1 0 0 0
+Ana Clara Sales
+2 1 0 2 1 2 0 0 0 2 0 0 1
+Carolina Teixeira
+1 1 1 2 1 1 1 1 2 1 1 2 2
+Guilherme Cavalcanti
+2 2 1 1 0 2 1 2 1 1 0 0 1
+Marcos Vinicius Vieira
+0 1 2 0 2 2 2 0 1 2 2 0 2
+Beatriz Silva
+1 1 0 0 2 0 0 1 0 1 0 1 1
+Marina Fogaça
+0 0 2 0 0 1 0 1 1 1 1 1 2
+Leonardo Peixoto
+1 1 1 2 1 2 0 2 1 0 0 0 2
+Raquel Nunes
+1 0 2 2 2 1 1 1 1 0 1 0 2
+Dra. Valentina Vieira
+1 2 0 0 0 2 0 2 2 1 0 1 0
+Noah Azevedo
+0 1 0 0 0 1 0 0 1 0 1 2 1
+Eduardo da Mota
+1 2 2 1 0 1 1 0 1 2 1 0 0
+Dra. Ana Beatriz da Conceição
+2 2 2 0 2 0 2 0 1 0 0 2 1
+Kevin da Rosa
+0 1 0 1 2 1 2 2 2 0 0 1 2
+Letícia Silveira
+1 1 1 2 2 0 2 0 1 2 1 1 1
+Milena Dias
+1 2 2 2 0 2 1 2 2 1 2 2 1
+Luana Cardoso
+1 1 1 2 0 1 0 0 1 0 1 2 1
+Isabel Martins
+2 2 2 0 0 1 2 0 0 0 0 1 0
+Gabrielly da Rocha
+0 1 1 2 2 1 0 2 1 0 0 1 2
+Maria Fernanda Dias
+2 1 1 1 2 0 0 1 1 1 1 1 1
+Arthur Aragão
+2 1 0 2 0 2 0 1 2 1 1 2 1
+Pietro Lima
+2 0 1 1 0 2 2 0 2 0 0 2 1
+Raul Nogueira
+0 2 0 2 2 1 2 0 2 0 1 2 1
+Levi Silveira
+1 0 1 2 0 1 1 1 0 0 1 1 0
+Renan da Conceição
+0 1 0 0 1 2 2 2 2 0 2 2 1
+Diogo Moura
+1 2 0 0 1 2 2 1 0 0 1 1 1
+Anthony da Cunha
+0 1 2 0 2 1 1 0 2 2 1 2 2
+Dra. Esther Costa
+1 0 2 1 0 2 0 2 1 1 2 2 1
+Maria Vitória Rodrigues
+0 2 1 2 2 0 1 1 0 1 1 1 1
+Julia Ferreira
+1 1 1 2 1 2 1 1 1 2 2 0 2
+Marcos Vinicius Lopes
+2 1 1 0 2 1 0 0 1 1 1 1 1
+Thomas Souza
+0 2 2 1 1 0 0 0 2 1 2 1 2
+Clarice Araújo
+0 1 2 1 1 1 2 1 0 2 2 1 0
+Otávio Melo
+0 0 2 2 1 2 2 0 2 2 1 1 0
+Sophie Teixeira
+0 1 0 0 1 0 1 0 2 0 2 1 2
+Sarah da Paz
+0 2 0 2 0 1 0 0 0 2 2 0 1
+Isabella Nogueira
+1 1 0 1 2 1 1 2 2 2 0 0 2
+Júlia Rezende
+0 0 2 0 2 1 0 0 0 2 0 1 2
+Nicolas Cardoso
+1 1 2 0 0 2 1 1 1 0 2 2 2
+Dra. Rafaela da Conceição
+0 2 1 0 0 0 0 0 0 2 0 2 1
+Murilo Cavalcanti
+0 1 0 1 0 0 1 2 1 2 0 0 2
+João Pedro Ramos
+2 2 1 0 2 2 2 0 1 1 2 1 2
+Alice Pinto
+1 1 2 1 1 0 1 1 2 2 0 0 0
+Gabriela Pires
+0 2 1 0 1 2 2 0 2 0 2 1 2
+Alexia Jesus
+0 0 2 0 1 0 2 2 1 2 0 1 0
+Sra. Julia Campos
+1 2 0 1 2 2 2 0 2 1 2 0 0
+Agatha Silveira
+0 0 0 0 0 0 2 1 2 1 1 2 2
+Sr. Juan Viana
+0 1 2 2 2 2 2 0 1 0 2 1 0
+Pietra Araújo
+1 0 1 1 1 0 2 0 1 2 2 2 1
+Mariana Cardoso
+0 0 2 1 1 1 1 1 2 2 0 0 0
+Raquel Ferreira
+2 0 1 1 1 0 1 1 2 2 0 1 1
+Stella Martins
+2 0 2 0 2 2 2 1 0 2 2 1 0
+Milena Ramos
+2 0 0 1 2 2 2 2 1 0 0 0 0
+Juliana Vieira
+0 1 0 1 2 0 2 0 0 1 0 2 2
+Guilherme Nogueira
+2 2 0 0 2 0 1 0 1 2 2 0 0
+Levi Cavalcanti
+1 0 0 2 2 2 2 2 1 1 2 0 1
+Sofia Jesus
+0 2 0 0 0 2 2 1 1 0 1 1 0
+Dra. Maria Caldeira
+0 2 2 2 0 1 2 0 2 0 2 0 1
+Sophia Pereira
+2 0 0 0 0 1 2 0 0 2 1 1 1
+Kaique Oliveira
+2 1 2 2 1 2 1 2 1 2 0 1 0
+Dr. Bryan da Rosa
+2 2 0 0 2 1 0 0 0 2 2 2 2
+Alice Campos
+2 1 2 0 2 0 2 2 1 1 1 1 1
+Sr. Miguel Fernandes
+0 0 0 1 0 2 1 0 0 2 1 1 1
+Yago da Rocha
+0 2 0 0 1 2 0 0 1 1 0 1 1
+Cauê Azevedo
+0 0 0 1 2 2 2 0 1 0 2 0 2
+Maria Alice Alves
+2 1 1 2 2 2 0 1 2 2 0 1 2
+Ana Vitória Alves
+0 1 0 2 2 0 1 2 0 2 2 0 1
+Bárbara Peixoto
+1 0 0 0 2 0 2 0 2 1 1 2 0
+Valentina Araújo
+1 2 1 1 2 1 1 2 1 0 1 1 1
+Eduardo Barros
+2 2 2 0 1 2 2 0 0 1 2 1 1
+Nicole Pires
+0 2 1 1 0 2 1 2 2 0 2 2 2
+Otávio da Mata
+2 0 1 0 0 1 0 2 2 1 1 1 1
+Bernardo Rodrigues
+2 0 0 0 1 0 1 1 2 1 1 1 0
+Raquel Moraes
+1 2 2 2 2 1 0 0 1 1 2 1 1
+Guilherme Fogaça
+2 0 2 0 1 0 1 0 1 1 0 0 1
+João Gabriel Silveira
+0 2 2 0 1 0 2 2 1 2 2 1 1
+João Lucas Lopes
+2 2 0 1 1 2 0 1 1 0 1 0 2
+Sr. Marcelo Aragão
+2 0 2 2 0 0 0 2 2 2 0 2 1
+Sra. Sophia da Luz
+1 0 1 0 2 0 2 1 1 1 2 0 1
+Lucas da Luz
+1 2 2 1 1 2 0 1 0 1 0 1 1
+Sabrina da Costa
+2 0 0 2 2 0 2 0 1 2 2 0 2
+Ana Carolina Ferreira
+0 2 1 1 0 2 2 0 0 2 1 0 2
+Sra. Vitória Santos
+0 0 1 0 2 1 2 0 1 0 2 2 2
+Maria Clara Silva
+0 2 2 1 1 1 0 1 2 1 1 0 1
+Sra. Camila Pires
+1 0 0 1 2 1 2 2 0 0 0 1 0
+Olivia Moraes
+2 0 2 1 0 1 2 0 0 1 2 2 1
+Pietro Aragão
+1 1 0 2 1 1 1 1 1 0 1 0 0
+Guilherme Alves
+0 2 2 1 0 2 2 1 0 2 2 1 1
+Camila da Cunha
+1 2 2 0 2 0 1 1 0 0 1 1 2
+João Pedro da Rosa
+0 0 2 0 0 2 1 2 2 2 0 0 2
+Cecília da Mota
+2 1 0 1 0 1 0 0 2 1 0 0 2
+Benício Lima
+1 2 1 2 0 1 2 2 0 0 1 2 1
+João Lucas da Mata
+1 0 2 1 0 1 0 0 1 2 0 1 2
+Benício das Neves
+1 2 2 2 0 0 0 1 1 2 0 0 1
+Erick Alves
+1 2 0 1 0 0 0 1 0 1 1 1 2
+Davi Nogueira
+1 0 2 1 1 2 1 2 2 1 0 0 2
+Sra. Maria Cecília Fernandes
+2 2 2 1 1 0 1 1 2 0 0 2 2
+Yago Barbosa
+1 2 1 2 2 0 1 1 0 2 2 1 2
+Augusto da Rocha
+1 0 1 1 1 1 1 0 2 2 0 2 0
+Ana Laura da Paz
+1 0 1 1 0 2 1 0 1 1 0 1 1
+Maria Luiza Ribeiro
+1 1 1 1 0 2 1 2 2 1 1 0 1
+Daniela Oliveira
+0 1 2 1 2 1 1 2 1 1 2 2 2
+Laura Almeida
+2 1 1 0 0 1 2 2 0 1 1 2 0
+Sra. Maria Julia Fogaça
+1 1 1 0 1 1 0 2 0 0 1 2 2
+Fernando da Rocha
+0 1 0 2 1 1 1 2 1 1 2 0 0
+Maitê Silva
+0 1 2 1 0 1 0 2 2 2 0 0 2
+Emanuella Ferreira
+2 2 2 2 2 0 0 2 0 2 0 2 0
+Clara Nogueira
+2 1 2 1 0 0 2 1 1 0 2 1 1
+Ana Clara Cardoso
+1 0 1 2 1 1 0 1 1 0 0 0 0
+Mariana das Neves
+2 2 1 1 2 2 1 0 0 2 0 0 0
+Dr. Gustavo Ramos
+0 2 1 1 2 0 0 0 0 2 0 1 0
+Matheus Aragão
+0 1 2 2 2 2 0 2 1 1 0 2 0
+Otávio Lima
+2 2 0 2 2 0 1 0 2 0 2 2 2
+Stella Lima
+0 0 2 2 0 1 2 1 2 1 1 0 2
+Paulo Azevedo
+2 0 0 0 1 2 2 0 1 2 1 1 0
+Francisco Rodrigues
+2 1 1 1 0 1 1 2 2 1 0 0 2
+Sr. Raul Silva
+0 0 1 1 1 2 1 2 2 1 2 1 0
+Maria Vitória Vieira
+0 2 2 2 2 1 2 1 1 1 0 1 1
+Nina Cardoso
+2 2 0 1 0 2 0 2 1 2 0 1 0
+Leandro Lopes
+0 2 2 0 1 2 0 1 0 1 1 0 2
+Sr. Leonardo Ribeiro
+1 0 2 0 2 2 1 0 0 0 2 0 2
+Sra. Laís da Rosa
+2 0 2 1 2 2 0 1 1 2 0 1 0
+Rebeca Cardoso
+2 0 1 1 0 0 0 1 2 1 1 0 2
+Kaique Nunes
+2 1 2 0 2 1 2 0 2 1 2 0 0
+Beatriz Cunha
+0 0 1 1 0 2 0 0 2 1 2 2 1
+Evelyn Dias
+1 0 1 2 2 1 0 0 0 0 2 1 1
+Thiago da Paz
+0 1 1 0 1 2 2 2 2 2 0 2 2
+Vitor Gabriel Silveira
+0 2 2 2 2 1 0 0 0 2 0 0 1
+Ana Júlia da Rosa
+2 0 0 1 1 1 1 0 1 0 0 1 0
+Beatriz Dias
+0 1 1 0 0 1 1 1 2 0 2 0 2
+Srta. Helena Gomes
+2 1 0 0 2 1 1 2 2 1 2 0 0
+Sr. Kevin da Cruz
+1 0 1 2 2 2 0 2 0 0 1 2 1
+Dra. Bianca da Mata
+2 0 2 2 1 0 2 1 0 2 1 0 0
+Giovanna Porto
+0 1 1 1 1 2 0 0 0 0 0 2 0
+Maria Monteiro
+0 0 0 0 0 2 0 2 0 0 0 1 1
+Dr. Bryan Barbosa
+2 0 0 1 2 2 2 0 0 2 2 0 2
+Kevin Gomes
+2 0 1 2 2 1 2 1 1 1 0 2 2
+Nathan Pinto
+1 1 2 0 1 2 1 0 2 2 2 1 2
+Kamilly Nunes
+2 2 0 2 1 1 1 2 2 2 2 1 0
+Sra. Nicole Mendes
+0 0 0 2 1 2 2 2 0 0 1 1 1
+Maria Luiza Barros
+1 0 0 1 1 2 2 1 0 2 1 2 0
+Lorena Melo
+0 1 0 2 1 2 0 2 0 1 2 1 0
+Sr. Luiz Felipe Souza
+2 0 0 2 1 0 2 2 1 2 2 0 0
+Gabriela Cardoso
+1 2 2 0 1 1 1 0 0 2 1 1 0
+João Pedro Duarte
+1 2 2 2 0 1 0 0 1 0 2 0 0
+Maria Cecília da Conceição
+2 0 0 0 2 0 1 0 0 0 1 2 2
+Thales Ferreira
+1 1 0 2 2 1 2 0 1 1 2 2 0
+Noah Azevedo
+0 0 2 0 2 2 1 0 0 0 2 0 0
+Amanda Vieira
+2 1 1 2 1 1 0 1 0 0 2 2 1
+Alexia Novaes
+0 1 2 2 1 0 1 2 0 1 1 2 1
+Dr. Calebe Carvalho
+2 0 1 0 0 2 2 2 0 1 2 1 0
+Lucas Gabriel Rodrigues
+1 2 2 1 2 2 1 0 2 0 2 2 0
+Benjamin Jesus
+1 1 1 0 2 0 0 2 0 0 0 1 0
+Cauã da Mata
+1 1 2 1 1 1 0 2 1 2 1 0 2
+Paulo Cunha
+1 2 2 2 2 2 2 2 2 1 0 2 0
+Eduarda Porto
+2 2 0 0 1 0 2 2 1 1 2 0 0
+Lorenzo da Mota
+2 1 1 0 1 0 2 0 2 0 1 0 0
+Alexandre Costa
+0 1 0 0 1 0 0 2 0 0 2 1 0
+Augusto Castro
+0 1 1 2 1 0 0 0 2 0 2 2 2
+Sr. Yago da Mota
+2 1 1 1 2 1 1 2 0 0 0 0 1
+Cauê Moraes
+0 2 0 0 0 2 2 1 0 0 2 0 2
+Sra. Laura Costela
+2 0 1 1 2 1 2 0 1 1 0 0 2
+Dra. Sarah Lopes
+1 1 1 1 1 0 2 1 0 0 1 1 0
+Sr. Luigi Moura
+1 1 0 2 2 2 1 0 0 2 1 1 0
+Dr. João da Mata
+1 2 2 2 0 2 1 0 2 1 0 2 0
+Pedro da Paz
+0 2 0 2 2 2 1 0 2 2 0 2 0
+Camila Campos
+2 2 0 2 0 1 0 2 2 1 1 2 1
+Ana Laura Fernandes
+0 1 1 0 2 2 2 0 2 0 1 2 1
+Carlos Eduardo Fogaça
+0 0 0 1 0 0 1 0 2 0 0 1 2
+Luigi Nogueira
+0 0 1 2 0 0 2 0 2 2 0 0 0
+Nina Pinto
+2 1 2 2 2 0 2 0 2 2 1 1 2
+João Felipe Almeida
+0 1 1 0 0 2 1 2 2 2 2 1 2
+Bruna Pereira
+2 1 2 2 0 0 0 0 2 2 2 0 2
+Maria Fernanda Silva
+2 2 2 2 2 0 0 2 1 1 2 2 0
+Enzo da Rocha
+2 1 2 2 2 0 2 1 2 1 0 0 0
+Pedro Lucas Ramos
+2 0 0 0 0 0 2 2 1 1 1 2 0
+Vitor Cunha
+1 0 2 1 1 2 0 0 2 1 1 2 0
+Sra. Stella Moura
+0 1 0 2 1 0 2 0 2 0 0 2 1
+João Lucas Nogueira
+2 1 2 1 2 1 2 0 1 0 1 2 1
+Juliana Dias
+1 1 1 1 2 2 1 2 2 0 1 0 1
+Joaquim Jesus
+1 2 2 2 2 1 0 0 2 0 1 0 2
+Stephany da Mata
+2 1 1 0 2 0 1 0 0 0 1 1 2
+Felipe Freitas
+1 0 2 0 0 2 0 2 0 0 2 1 2
+Clara Pires
+0 1 1 2 2 1 0 0 2 0 2 2 0
+Mariana Oliveira
+1 0 1 2 2 1 1 2 2 1 2 2 2
+Murilo Ribeiro
+2 1 0 0 0 1 0 0 2 2 2 0 0
+Agatha Santos
+1 0 2 0 1 1 1 1 0 0 2 0 0
+Ana Laura Pinto
+0 0 0 2 0 0 0 1 1 0 0 0 1
+Anthony Gomes
+1 1 2 2 2 1 2 1 2 1 2 1 2
+Maria Duarte
+1 1 2 0 1 1 2 2 0 0 2 2 0
+Emanuel Ribeiro
+1 2 1 2 0 0 2 0 1 2 1 1 2
+Natália Ribeiro
+1 1 1 2 2 1 2 0 0 0 0 1 2
+Alexia Moreira
+1 1 2 0 0 0 0 2 2 1 0 1 2
+Ian da Costa
+2 2 1 1 0 2 2 2 2 0 0 2 2
+Natália Lima
+2 2 1 1 1 1 2 1 2 1 0 2 1
+Davi Lucas da Rosa
+1 0 1 0 2 0 0 2 0 1 0 1 1
+Ana Carolina Duarte
+0 2 1 1 2 2 1 0 0 2 1 2 1
+Giovanna Duarte
+2 2 0 0 2 1 2 2 2 0 2 2 0
+Sophie Pinto
+1 2 1 0 1 0 0 2 1 1 0 1 1
+Diogo Sales
+1 1 1 0 2 0 2 2 2 2 0 2 2
+Sra. Rebeca Vieira
+1 1 2 1 2 1 2 0 0 1 0 2 1
+Davi Lucca Moraes
+2 2 2 2 0 1 2 2 2 1 0 2 0
+Dr. Arthur Santos
+2 0 1 0 0 0 1 2 2 2 1 1 1
+Isadora Barbosa
+1 1 2 1 0 0 0 1 2 1 1 0 0
+Igor Pinto
+0 2 0 0 0 2 0 2 1 2 2 2 2
+Dra. Emanuella Ribeiro
+0 2 1 0 2 0 1 1 1 2 1 2 0
+Dr. Nathan Jesus
+1 0 0 0 1 1 1 1 2 1 2 1 0
+Maria Clara Moura
+2 2 2 0 2 0 1 0 0 0 1 0 1
+Bruno Freitas
+2 1 0 1 1 2 1 0 1 0 2 2 0
+Isabel Duarte
+0 2 0 2 0 0 0 0 0 2 1 0 0
+Marcelo Barros
+2 1 0 1 0 2 0 2 1 1 0 0 0
+Cauê Cavalcanti
+0 2 2 0 0 0 1 2 1 0 2 2 0
+Maria Julia Sales
+1 0 1 0 2 1 1 2 2 2 0 0 1
+Carlos Eduardo Pires
+2 1 2 1 1 2 0 0 0 0 1 1 1
+Sr. Thiago Rezende
+0 1 0 1 2 2 2 0 1 2 0 0 2
+Ana Julia Araújo
+1 0 1 1 0 0 1 0 2 0 2 2 0
+Clarice da Mota
+0 0 1 0 2 1 1 1 2 1 0 0 0
+Kaique Barbosa
+2 0 1 2 1 2 1 1 2 1 1 1 1
+Lucas Gabriel Ferreira
+0 2 1 0 0 2 2 0 0 2 0 1 2
+Raquel Oliveira
+0 1 2 1 1 1 2 2 0 2 2 1 0
+Carlos Eduardo Jesus
+0 1 0 1 2 0 2 0 2 0 0 0 1
+Dra. Ana da Cunha
+2 0 1 0 2 0 1 2 1 1 0 2 1
+Augusto Silveira
+2 0 2 2 1 0 2 2 1 2 1 0 0
+Gustavo Ribeiro
+2 1 0 0 2 0 1 0 2 2 0 0 1
+Ana Beatriz Rodrigues
+2 1 0 0 1 1 2 1 0 0 0 2 0
+Luiz Miguel Fernandes
+2 2 0 2 1 1 2 0 0 2 0 0 1
+Cauã Souza
+1 1 0 2 1 2 1 2 1 1 2 2 1
+Vitória Nascimento
+2 0 2 0 1 1 2 0 0 0 1 1 2
+Sr. João Guilherme da Mota
+1 2 2 0 2 1 1 0 1 1 2 0 1
+Isabella Mendes
+2 0 1 0 1 2 0 1 1 0 0 0 1
+Ana Clara Cavalcanti
+1 2 0 0 1 1 2 0 1 2 2 1 0
+Alícia Fernandes
+1 2 2 1 1 0 0 2 1 0 0 0 1
+Francisco Rodrigues
+0 0 0 1 0 0 2 1 0 2 0 0 0
+Alexandre Correia
+0 2 2 0 1 0 2 0 2 1 2 2 0
+Maria Luiza Pinto
+2 2 2 1 0 1 0 2 1 0 0 0 0
+Antônio Costa
+0 1 0 0 0 1 1 0 1 2 1 0 2
+Sr. André Farias
+2 1 2 1 1 1 0 2 1 2 0 1 2
+Cauê Martins
+1 0 2 2 1 0 2 0 0 2 0 0 0
+Maria Eduarda Dias
+2 2 2 1 2 2 0 1 2 2 0 2 2
+João Cunha
+1 0 2 0 1 0 1 0 0 0 1 0 0
+Beatriz Moreira
+1 0 1 1 2 2 0 0 0 0 0 0 0
+Enrico Novaes
+0 0 2 1 2 0 2 1 2 0 0 0 2
+Henrique da Rosa
+1 0 2 0 2 1 1 1 2 1 1 0 1
+Marcos Vinicius Ribeiro
+0 1 0 1 2 2 0 0 0 0 0 1 2
+Yuri Silveira
+0 1 0 2 2 1 2 2 0 1 2 1 0
+Miguel da Conceição
+2 2 2 0 1 1 0 2 0 2 0 1 2
+Clarice Rezende
+1 0 2 1 0 0 0 1 1 0 2 2 2
+Bruno Oliveira
+2 0 1 1 1 1 1 0 1 1 0 1 0
+Sr. Paulo Araújo
+1 2 0 1 1 1 1 0 2 1 0 1 2
+Vitor Gabriel Moura
+2 2 1 1 2 0 1 2 1 1 2 0 2
+Dra. Lívia Novaes
+2 0 2 0 2 1 2 1 1 2 1 2 2
+Vitor da Conceição
+2 2 0 0 1 0 0 2 1 0 1 0 2
+Dra. Heloísa Correia
+1 1 2 1 0 1 1 1 1 0 1 0 2
+Sr. Luiz Gustavo Carvalho
+0 0 1 1 0 1 2 0 2 2 2 2 2
+Benjamin Cunha
+2 2 0 2 1 0 2 0 1 2 2 0 0
+Luiz Otávio da Luz
+2 2 2 0 1 1 0 1 0 2 0 0 0
+Guilherme Barbosa
+0 1 0 2 2 2 0 0 1 0 0 2 1
+Nina da Mota
+2 1 1 1 0 1 1 0 1 0 0 2 0
+Miguel Rodrigues
+1 1 1 2 1 2 1 1 1 2 0 1 0
+Bryan da Rosa
+0 2 0 2 2 0 0 1 2 1 0 2 0
+Anthony Ferreira
+0 1 1 0 2 2 0 2 1 1 0 1 2
+Maria Alice Cardoso
+1 2 0 1 0 2 0 1 0 0 1 1 1
+Maria Alice Farias
+1 2 1 2 1 1 0 2 0 1 1 0 0
+Lorena da Luz
+1 1 1 2 2 2 1 2 1 0 0 0 1
+Maria Vitória Lopes
+2 1 1 1 1 0 1 1 2 0 0 0 1
+Raul da Conceição
+2 0 1 0 0 2 0 1 2 0 2 0 0
+Srta. Maria Eduarda Farias
+0 0 1 0 2 2 2 0 2 1 1 1 2
+Augusto Costela
+1 0 0 2 1 1 0 1 0 0 0 2 2
+Dra. Maria Fernanda Campos
+0 0 1 0 1 1 2 1 2 1 2 0 0
+Maria Alice Carvalho
+2 0 1 2 1 2 2 2 1 0 1 2 0
+Bárbara Cardoso
+0 1 0 2 2 0 0 0 1 2 2 0 2
+Lavínia Moura
+2 1 2 1 2 0 1 0 2 2 0 0 1
+João Felipe Almeida
+0 1 1 1 1 2 1 2 0 0 1 1 2
+Erick Fogaça
+2 0 0 0 0 1 2 1 1 2 2 0 0
+João Felipe Jesus
+0 2 1 0 1 2 1 1 0 0 2 2 2
+João Guilherme Cardoso
+0 0 0 2 0 2 0 0 2 2 0 0 0
+Enzo Nascimento
+0 1 1 1 2 0 0 0 0 2 0 1 1
+Davi Lucas Melo
+0 2 2 1 1 0 2 0 1 2 2 0 2
+Gabrielly Peixoto
+0 2 0 0 0 2 1 1 1 2 0 1 1
+Samuel Ramos
+1 2 0 0 2 1 2 0 0 1 0 0 1
+Maria Clara Ramos
+2 1 0 1 2 1 2 2 2 2 2 2 1
+Gustavo Aragão
+1 1 2 2 2 1 1 1 0 0 0 0 2
+Srta. Maysa Cunha
+2 2 2 0 2 2 2 0 1 0 0 1 2
+Natália da Cunha
+2 0 2 1 0 0 2 0 0 2 0 0 0
+Maria Alice da Cunha
+2 1 2 0 2 2 1 2 2 1 0 0 1
+Beatriz Vieira
+1 0 0 0 1 1 2 2 0 2 2 1 2
+Sra. Maitê Moraes
+0 1 0 1 2 1 2 2 0 0 0 0 0
+Sophie Vieira
+1 1 2 1 0 2 1 2 0 2 2 0 2
+Milena Pereira
+1 1 2 1 0 0 0 0 1 0 2 2 0
+Dra. Milena Sales
+1 0 2 0 2 1 1 0 2 2 1 0 1
+Nina da Rocha
+2 2 2 0 2 0 1 0 0 1 0 2 2
+Miguel Nascimento
+0 2 0 0 0 2 2 2 2 2 2 0 1
+Sr. Vicente da Paz
+0 1 2 2 2 0 0 1 1 1 0 1 2
+Ana Luiza Cunha
+0 0 2 0 1 1 1 2 1 2 2 0 0
+Eloah Nogueira
+0 2 1 0 2 0 2 0 1 0 1 2 2
+Rafael Ramos
+0 0 0 0 1 1 2 1 1 2 1 2 2
+Emanuelly da Costa
+0 2 2 1 0 0 0 1 0 0 0 1 0
+Davi Silveira
+1 2 2 0 0 2 2 0 0 1 1 0 0
+Kamilly Pires
+2 1 1 2 2 2 1 1 1 2 2 0 2
+Srta. Juliana Costa
+2 0 0 1 2 2 0 2 1 0 0 0 1
+Srta. Sarah Mendes
+2 0 2 1 1 1 2 0 2 0 1 1 1
+Kevin Campos
+0 0 1 1 0 0 0 2 0 2 1 2 1
+Ian Moura
+1 0 1 2 1 2 2 2 0 0 2 0 0
+Dra. Clarice Vieira
+1 1 0 1 0 1 1 0 1 2 2 0 0
+Sr. Theo Almeida
+0 1 0 0 1 2 0 2 2 1 1 1 2
+Dra. Ana Sophia Moraes
+0 2 0 2 2 2 0 2 2 1 1 2 1
+João Felipe Moreira
+0 1 2 1 2 0 2 1 1 0 1 2 1
+Pedro Melo
+2 1 0 2 2 1 2 2 1 0 0 0 2
+Arthur Dias
+0 1 1 2 1 2 1 1 1 1 0 1 1
+Isis Moura
+2 0 1 2 2 2 1 0 1 2 0 0 0
+Elisa Correia
+1 0 1 1 0 1 2 2 2 1 1 0 0
+Dr. Anthony Nunes
+0 1 1 0 2 1 1 2 1 2 0 2 2
+Emanuel Almeida
+0 0 2 0 0 0 1 2 2 1 2 0 1
+Daniela da Cunha
+2 0 0 0 0 1 0 1 0 1 2 0 1
+Augusto Souza
+0 0 1 0 1 2 0 0 0 0 0 1 2
+Vitor Gabriel Rocha
+1 2 0 1 2 0 1 0 2 0 1 1 2
+Kevin Rodrigues
+1 1 1 1 2 0 0 0 2 0 1 1 0
+Antônio Moreira
+0 1 2 0 0 1 1 0 2 1 2 0 1
+Dra. Evelyn Teixeira
+2 0 2 1 2 1 1 0 1 1 2 2 1
+Bianca Souza
+1 1 2 0 2 1 2 0 0 2 2 0 0
+Sabrina Teixeira
+0 0 1 2 2 2 1 2 2 0 1 0 2
+Sra. Melissa Souza
+2 0 0 0 2 2 0 2 1 1 1 1 0
+Dr. Rodrigo da Rocha
+0 1 1 0 1 1 2 0 2 0 1 1 0
+Carolina Costela
+2 2 2 1 1 2 0 2 0 1 1 2 2
+Rebeca Alves
+0 2 0 1 2 1 0 0 1 2 0 1 0
+Sophie Rocha
+1 0 2 2 1 2 0 1 2 0 0 1 0
+Sofia Rodrigues
+0 2 2 2 0 1 0 1 1 0 2 0 2
+Lavínia Lopes
+1 0 2 2 1 1 0 0 1 2 2 0 2
+Matheus Lopes
+2 1 0 1 1 1 1 1 1 0 1 0 1
+Juan Barbosa
+0 2 1 0 1 1 1 0 0 0 2 0 0
+Larissa Araújo
+0 0 2 1 1 2 1 2 2 2 1 2 2
+Isabel Ramos
+1 1 1 0 2 1 1 0 2 1 1 1 0
+Sra. Natália Gonçalves
+2 2 2 0 1 0 0 0 0 0 0 1 0
+Caio das Neves
+0 2 0 0 0 0 2 0 2 1 0 1 1
+Maria Sophia Vieira
+0 0 1 2 1 2 2 1 2 1 0 1 1
+Milena Caldeira
+0 0 0 0 1 0 0 1 0 1 2 1 2
+Emanuel Nascimento
+2 2 1 1 2 1 1 0 2 1 0 2 1
+Ana Beatriz Silva
+1 2 1 2 1 0 0 1 2 0 1 0 1
+Sra. Maria Vitória da Mota
+0 0 0 2 0 1 2 1 0 1 0 1 2
+Lucas Lopes
+1 0 0 0 1 0 1 2 2 2 1 1 1
+Ana Carolina Pires
+2 2 1 2 0 2 2 2 1 2 0 2 2
+Alexandre Souza
+0 2 2 1 1 2 1 0 0 2 2 1 2
+Dra. Nicole Farias
+0 2 2 2 0 0 0 2 2 0 1 0 0
+Lorena Ramos
+1 0 0 1 0 0 1 0 1 2 2 1 1
+Catarina Ribeiro
+1 2 1 2 0 1 2 0 1 2 2 2 1
+Gabriela da Paz
+2 2 2 1 1 1 2 1 0 0 2 1 2
+Joana da Rosa
+2 1 2 2 2 2 0 1 0 1 0 0 1
+Larissa Duarte
+1 2 1 0 1 1 2 2 0 0 0 2 1
+Pedro Miguel Freitas
+2 1 1 2 2 2 2 2 1 1 2 1 2
+Levi Costela
+0 0 0 2 0 2 0 0 0 2 2 2 0
+Otávio Teixeira
+2 1 1 1 1 1 0 1 0 1 2 2 1
+Daniel Costela
+0 1 2 0 1 0 1 0 0 1 0 1 0
+Dra. Ana Sophia Melo
+2 0 2 1 1 0 1 1 2 2 0 2 0
+Isabel Nascimento
+1 0 0 0 0 0 1 1 0 0 1 0 1
+Maria Cecília Barbosa
+0 1 1 1 1 0 0 1 0 2 0 0 0
+Samuel Cunha
+2 0 2 0 1 0 0 1 0 2 1 1 2
+Luiza da Costa
+2 1 0 2 0 0 0 0 2 1 1 0 0
+Thales Pires
+1 1 1 2 2 2 0 2 0 2 2 0 1
+Dr. Davi da Rosa
+0 0 1 0 2 1 2 0 0 0 1 0 1
+Ryan da Mata
+1 1 2 2 2 2 2 0 2 1 2 2 2
+Gabriel Castro
+1 1 1 0 2 1 1 0 0 0 1 2 0
+Arthur Novaes
+1 0 2 2 2 1 0 0 0 0 1 2 1
+Srta. Lara Cavalcanti
+0 2 1 1 0 2 2 1 0 2 0 2 2
+João Gabriel Silveira
+1 2 0 1 2 2 0 0 2 1 1 0 0
+Mariane Pinto
+1 2 0 1 2 2 2 1 0 0 0 1 1
+Srta. Lorena da Mata
+2 0 0 1 1 0 0 2 0 2 2 1 2
+Manuela Cunha
+2 1 0 2 1 0 0 0 1 1 0 1 1
+Felipe Fernandes
+1 2 0 0 0 1 1 1 0 0 2 2 2
+Fernando Correia
+2 2 0 1 2 0 1 0 2 2 2 1 0
+Catarina Azevedo
+2 1 2 0 0 1 0 2 2 1 1 1 1
+Maria Vitória Porto
+0 2 1 1 0 0 0 1 0 1 2 1 2
+Stella Costela
+0 2 2 1 1 0 0 2 0 0 2 2 0
+Maria Sophia Melo
+2 0 0 1 2 2 2 2 1 2 0 0 2
+João Vitor Gonçalves
+0 0 2 0 2 1 1 0 0 2 0 0 0
+Fernanda Barbosa
+1 0 1 2 1 0 1 2 1 2 1 2 0
+Cauã Barros
+2 2 1 0 1 0 1 0 1 1 0 1 1
+Erick da Luz
+1 1 2 0 1 0 0 2 0 2 1 0 0
+Fernando Ferreira
+1 0 2 2 1 2 1 2 0 2 2 1 2
+Gustavo Novaes
+1 0 1 2 1 2 2 2 0 1 1 1 1
+Lara Nascimento
+0 0 1 2 1 2 2 2 0 0 0 2 2
+Diogo da Cruz
+2 0 1 2 2 1 2 1 1 0 2 2 2
+Gabriel Pereira
+0 2 0 2 0 2 2 1 1 0 2 0 2
+Nicolas Rodrigues
+2 0 0 2 1 0 1 0 1 1 1 2 2
+Leandro da Cruz
+2 2 0 0 1 0 0 2 2 0 1 2 2
+Dr. Luiz Miguel Barros
+2 1 2 2 1 2 0 0 2 2 2 2 1
+Heloísa Peixoto
+0 2 2 1 2 2 1 1 1 1 1 1 1
+Isis Araújo
+2 0 0 0 1 2 1 1 2 0 2 2 1
+Brenda Mendes
+1 1 1 2 1 2 1 1 2 2 2 1 0
+Vicente Caldeira
+0 1 0 1 2 2 1 0 1 2 2 0 1
+Antônio Jesus
+0 2 2 0 0 0 2 0 0 0 0 2 0
+Luiz Gustavo Melo
+1 2 1 1 2 2 1 0 2 2 2 1 2
+Camila Cardoso
+1 0 1 2 0 1 0 0 1 2 1 1 2
+Yuri Martins
+2 2 0 0 1 0 2 2 2 2 0 2 1
+Calebe Nascimento
+0 0 0 0 2 1 2 2 0 0 2 2 0
+Caroline da Paz
+2 1 1 2 1 2 1 1 0 0 2 2 1
+Alana Moura
+1 1 0 1 1 2 2 1 1 0 2 0 0
+Caio Teixeira
+0 1 0 1 0 1 1 0 0 2 1 1 2
+Sr. Danilo Araújo
+1 0 2 2 0 2 1 1 2 0 1 2 0
+Theo Nogueira
+0 1 1 0 1 2 2 2 0 1 0 0 0
+Marina Sales
+0 2 2 2 0 0 1 0 2 0 2 1 2
+Diogo Ribeiro
+2 1 0 2 1 2 1 2 2 2 0 0 2
+Sr. Levi Rocha
+1 0 2 1 1 0 0 1 1 2 1 0 1
+Laura Barros
+1 1 1 2 0 2 1 0 2 0 2 2 2
+Stephany da Cruz
+2 2 1 0 0 1 2 2 0 2 0 2 1
+Raul Rezende
+1 2 1 2 1 0 2 2 1 0 1 0 1
+Mariana Ribeiro
+2 1 0 2 2 1 1 1 0 2 2 2 2
+Pietra Moura
+0 2 2 1 2 1 2 2 1 0 0 2 2
+Srta. Gabriela Silva
+0 0 0 1 1 1 0 1 2 1 1 0 0
+Carlos Eduardo Rocha
+0 1 0 1 0 0 1 2 2 0 2 2 0
+Nicolas Melo
+0 2 0 1 2 2 0 2 0 2 0 0 1
+Theo Rezende
+1 1 0 1 0 0 0 2 1 1 2 2 2
+Luna Rezende
+1 2 0 0 0 2 0 1 0 1 2 1 1
+Sabrina Jesus
+0 0 1 2 2 0 0 0 1 1 2 1 2
+Srta. Evelyn Ramos
+1 1 1 0 0 1 0 2 0 1 0 0 0
+Amanda da Rocha
+2 2 2 2 1 1 2 0 2 2 1 2 0
+Davi Lucas Caldeira
+1 0 0 0 0 1 1 1 2 1 2 0 0
+Raquel Ribeiro
+1 1 0 1 1 2 1 1 0 0 0 2 1
+Pedro Henrique Nogueira
+2 1 1 1 1 2 0 1 2 1 2 2 1
+Carolina Ribeiro
+1 1 2 0 1 2 2 1 0 1 0 1 1
+Emanuelly da Paz
+2 1 2 0 2 2 0 0 1 2 1 1 0
+Raul Moura
+0 1 2 0 1 0 1 2 0 2 2 0 0
+Stephany Barros
+0 0 1 1 1 0 1 2 2 2 0 1 1
+Maria Fernanda Fogaça
+1 2 1 0 1 1 0 0 0 1 0 1 0
+Eloah Silva
+1 0 0 0 1 2 1 0 2 2 1 1 2
+Sofia Monteiro
+0 2 1 2 2 0 0 1 2 2 1 0 0
+Ana Clara Fernandes
+2 1 2 2 2 2 1 2 2 0 0 2 0
+Gustavo da Cunha
+0 0 1 0 2 0 0 2 1 2 1 0 2
+Calebe Fernandes
+0 0 2 1 2 0 0 0 1 0 2 2 0
+Emanuel da Conceição
+1 0 2 2 0 2 2 1 2 0 1 1 2
+Mirella Caldeira
+1 0 2 0 2 0 0 2 1 2 1 1 1
+Clara Pires
+2 0 1 0 0 0 1 0 0 2 0 2 1
+Sra. Catarina Pinto
+0 1 2 2 0 1 1 0 1 1 1 0 0
+Ana Luiza Ferreira
+2 0 2 0 0 0 0 2 1 0 0 0 2
+Benício Lopes
+1 2 2 1 0 1 2 1 0 0 2 0 0
+Dr. Heitor Almeida
+0 2 0 2 2 1 1 1 0 2 0 2 1
+Rafaela Pires
+1 0 1 0 0 0 1 2 2 0 2 2 0
+Pietra Almeida
+0 2 1 1 2 0 1 1 2 2 0 1 0
+Giovanna da Conceição
+0 1 1 0 0 1 0 1 1 2 2 0 0
+Alice Rocha
+1 0 0 2 2 2 0 1 1 1 1 1 1
+Leonardo Rezende
+1 2 0 0 1 1 0 2 0 0 2 1 1
+João Felipe Campos
+2 2 2 2 2 2 2 0 0 2 2 1 1
+Enrico das Neves
+0 0 1 2 1 2 0 2 1 0 1 0 0
+Pedro Henrique Vieira
+1 0 0 1 0 0 0 2 2 2 2 2 2
+Felipe Castro
+2 0 1 1 1 0 1 1 2 0 1 2 1
+Maria Vitória Castro
+0 0 0 2 2 2 0 1 1 1 2 0 1
+Bárbara Monteiro
+2 2 1 0 1 0 0 0 1 2 0 2 0
+Isabel Monteiro
+1 1 0 1 0 1 1 2 1 2 1 2 1
+Antônio Oliveira
+2 2 1 1 2 2 2 0 2 2 2 2 0
+Lorena Ramos
+2 0 2 2 2 1 1 2 2 2 1 0 0
+Rebeca Barros
+0 1 0 0 1 0 1 1 1 2 0 2 2
+Clarice Silva
+2 2 1 2 1 0 2 0 0 0 1 1 2
+Srta. Milena Vieira
+0 0 2 2 2 2 0 0 1 0 0 0 1
+Sra. Elisa da Cruz
+1 0 2 1 1 2 1 0 2 2 1 1 1
+Srta. Eloah da Conceição
+1 0 0 2 2 2 0 1 2 0 2 1 2
+Gabriela Dias
+0 1 0 0 2 0 0 0 2 2 0 0 2
+Julia Ferreira
+2 1 1 2 0 1 1 1 0 2 0 2 1
+Mariana Farias
+0 2 2 2 2 2 2 1 0 0 2 2 1
+Catarina Cardoso
+2 2 0 1 2 0 1 0 1 2 1 0 2
+Sra. Maysa Sales
+2 1 1 0 0 0 1 0 2 1 0 2 0
+Maria Dias
+2 0 0 1 1 0 0 2 2 1 1 0 1
+Lorenzo Barbosa
+0 2 2 1 0 0 0 0 1 2 0 0 1
+Dra. Maria Sophia Nogueira
+1 2 1 2 2 0 2 1 2 0 2 1 2
+Sr. Lorenzo Duarte
+2 0 0 1 0 2 2 2 2 0 0 2 1
+Antônio Lopes
+1 2 0 1 1 0 1 0 0 0 0 2 2
+Júlia Barros
+1 1 1 1 0 2 0 0 2 0 2 2 2
+Rafael Peixoto
+2 1 2 2 1 2 1 1 0 0 1 2 2
+Thales Peixoto
+0 2 0 1 1 0 0 0 2 2 2 1 0
+Sr. Vicente Peixoto
+2 0 2 1 1 1 2 1 1 2 1 2 0
+Theo Pires
+2 1 0 2 2 0 0 0 1 0 0 0 1
+Ana Sophia Lima
+1 2 0 2 2 2 1 2 1 2 1 1 1
+Isabel Freitas
+1 1 1 2 1 0 1 1 0 2 2 1 1
+Ana Laura Cavalcanti
+2 2 1 2 1 0 1 0 2 2 1 0 1
+Noah da Cruz
+0 0 0 2 1 0 0 2 0 2 0 1 1
+Júlia Silva
+2 1 0 0 0 2 0 0 0 0 1 1 1
+Emilly Jesus
+1 0 2 2 2 1 2 0 0 0 0 0 0
+Pedro Lucas Mendes
+2 1 2 0 1 0 2 2 0 0 0 1 0
+Letícia das Neves
+2 0 0 1 1 2 1 2 0 1 0 0 1
+Milena Oliveira
+0 0 1 2 0 1 0 0 0 1 2 1 2
+Erick Gonçalves
+2 1 0 2 0 0 0 1 0 0 1 0 2
+Brenda Gomes
+1 0 0 0 2 2 1 0 1 0 2 2 0
+André Rodrigues
+2 2 2 2 2 1 1 0 1 1 1 0 2
+Carlos Eduardo Rocha
+0 2 0 0 1 0 0 2 2 0 1 1 1
+Dr. Benício Rodrigues
+0 1 0 0 2 2 0 2 0 1 1 0 1
+Elisa Porto
+0 1 2 1 1 1 0 1 1 2 0 2 1
+Leonardo Melo
+0 0 2 2 0 0 0 1 1 2 1 2 0
+Yasmin Melo
+0 0 1 0 1 1 2 2 0 2 2 0 1
+Milena Cardoso
+2 0 2 2 1 1 0 1 2 2 0 1 0
+Pietra Moraes
+2 2 2 0 2 1 1 0 2 1 1 2 2
+Natália Ferreira
+2 2 0 2 1 2 2 0 1 1 1 0 2
+Davi Lucas Barbosa
+0 1 2 0 0 0 1 2 1 2 0 0 1
+Eduarda Alves
+2 2 0 2 2 1 1 0 2 0 0 0 2
+Giovanna Lima
+1 2 2 1 2 0 1 2 2 1 1 1 0
+Nathan da Cruz
+0 0 0 1 2 2 2 0 0 1 2 1 0
+Evelyn Pires
+0 1 0 2 2 1 1 2 1 2 2 1 2
+Maria Sophia Souza
+2 2 0 2 2 0 2 0 0 2 0 0 2
+João Lucas Duarte
+2 2 1 2 1 2 1 1 0 1 0 1 2
+Stella Moreira
+0 0 0 2 1 0 1 0 0 2 2 2 2
+Nina Campos
+0 0 0 2 0 1 2 1 2 0 1 1 0
+Bryan Teixeira
+1 1 0 2 1 2 2 1 2 2 0 0 1
+Dr. Enzo Nogueira
+2 0 0 1 1 0 0 1 2 0 0 0 0
+Davi Lucas Castro
+1 0 2 0 0 1 2 0 2 2 2 0 1
+Laura Fernandes
+1 1 2 1 0 2 2 2 2 1 0 1 1
+Brenda Nogueira
+2 2 1 1 1 2 0 2 2 0 1 0 0
+Sr. Kaique Lima
+2 1 0 1 1 1 0 1 1 2 0 1 1
+Otávio Cardoso
+1 0 1 2 1 1 2 1 0 0 2 2 2
+Sophia Jesus
+0 2 0 0 1 1 1 2 2 0 1 2 2
+Diego Rodrigues
+2 0 0 1 0 0 1 2 2 2 2 0 2
+Luiza Nunes
+2 2 2 2 2 2 1 0 1 0 1 2 2
+Fernando Nascimento
+1 2 0 0 1 0 0 2 0 1 2 0 1
+Pietra da Costa
+1 0 1 1 1 2 2 2 1 1 1 2 1
+Marina Farias
+0 0 1 1 0 1 2 2 2 0 1 1 0
+Evelyn Ribeiro
+1 2 2 1 0 2 1 1 2 0 1 2 0
+Beatriz Teixeira
+2 2 2 1 0 1 1 1 0 1 2 1 0
+Fernanda Ribeiro
+1 2 2 1 0 1 2 0 0 0 2 2 1
+Thomas da Mota
+2 2 0 2 2 1 0 0 1 0 1 1 2
+Sra. Alexia Mendes
+0 0 0 0 1 0 2 0 1 2 0 1 1
+Bernardo Alves
+0 2 2 1 0 0 1 2 2 1 2 2 2
+Murilo Mendes
+2 2 2 2 2 1 1 2 1 1 1 1 0
+Mirella Alves
+1 2 0 2 0 2 0 1 2 2 0 2 0
+Camila Gomes
+1 0 1 2 2 1 2 2 2 2 1 2 0
+Vitor Hugo Gomes
+0 0 1 1 2 1 2 2 0 2 2 1 0
+Dr. Davi Lucca Moreira
+2 2 2 0 1 1 0 0 0 1 1 1 2
+Fernando da Cunha
+0 0 0 0 2 0 1 0 2 1 0 2 1
+João Gabriel Moreira
+2 2 2 2 0 1 1 1 0 0 1 1 1
+Rebeca da Costa
+2 0 0 0 1 2 1 1 1 0 1 2 2
+Bernardo Costela
+1 2 1 2 2 0 0 2 0 1 1 0 0
+Sra. Lorena Silva
+2 1 0 1 2 1 0 0 0 2 0 2 2
+Erick da Luz
+0 1 2 2 0 1 0 0 2 2 1 1 0
+Ana Vitória Gonçalves
+1 0 2 1 1 0 1 0 1 0 0 1 0
+Rafaela Cardoso
+0 0 0 1 2 2 1 1 1 1 0 0 0
+Anthony Jesus
+2 0 1 2 1 2 2 1 1 1 0 2 1
+Stephany Castro
+2 2 1 0 0 1 0 0 0 2 1 2 0
+Mariane da Cunha
+1 0 0 1 1 1 1 2 1 1 2 1 1
+Anthony Correia
+2 2 2 0 2 2 2 0 1 1 1 2 0
+Davi Lucca Nascimento
+0 2 2 2 0 2 2 2 2 2 1 0 1
+Mariane Sales
+2 2 1 2 1 1 1 2 1 1 0 1 0
+Bruno Souza
+0 2 0 2 1 0 1 2 0 0 1 1 2
+Enrico Nascimento
+0 1 1 1 0 0 1 0 1 2 1 1 2
+Emilly Silveira
+0 0 0 2 0 2 1 2 1 2 1 1 0
+Luana da Rocha
+0 1 1 1 0 0 1 1 2 0 2 2 0
+Mariane Teixeira
+0 0 0 0 2 2 1 1 0 0 1 1 0
+Yago Farias
+0 1 2 2 0 1 1 2 2 2 1 0 1
+Dra. Emanuelly da Conceição
+1 0 2 2 2 0 0 0 2 0 1 1 1
+Luiz Otávio Moraes
+0 1 1 0 1 1 0 2 0 0 2 1 2
+Ana Moreira
+2 0 1 2 1 0 2 2 0 0 2 1 0
+Davi Lucas Sales
+2 2 2 1 1 1 0 1 2 0 0 0 1
+Sra. Esther Azevedo
+2 1 1 2 0 0 2 1 1 1 2 2 0
+Sarah Silva
+1 2 1 1 0 0 1 2 2 2 0 1 1
+Rodrigo Ferreira
+0 1 0 1 0 2 0 2 1 2 0 0 0
+Emanuel Rodrigues
+1 2 2 2 1 2 2 2 1 0 2 0 1
+Yuri Pires
+0 2 2 2 0 0 0 1 2 0 2 1 2
+Fernando Almeida
+0 2 0 2 2 2 1 0 0 2 1 0 0
+Sr. Vitor Hugo Campos
+1 2 1 0 0 0 1 0 2 2 1 1 1
+Lorena Carvalho
+1 1 1 0 2 2 1 1 0 2 1 2 0
+Maria Alice Duarte
+0 0 2 2 0 1 2 1 1 1 0 1 2
+Heloísa Melo
+0 0 2 0 1 0 0 2 2 1 0 0 0
+Paulo Ferreira
+0 2 2 0 1 0 1 2 1 1 1 0 1
+Luiz Gustavo Fogaça
+0 0 2 1 0 0 1 2 1 1 1 2 0
+Maria Sophia da Rosa
+2 2 1 0 1 1 2 1 0 0 2 1 0
+Enrico Duarte
+1 0 2 0 0 1 1 0 0 0 1 0 2
+Mirella Cardoso
+0 0 1 1 1 1 0 1 1 2 2 2 1
+Srta. Marina da Rosa
+2 0 2 1 1 0 0 0 2 0 2 0 0
+Lívia da Luz
+2 2 0 0 1 2 0 2 0 0 1 0 2
+Vitor da Cunha
+2 0 1 2 1 0 2 2 2 2 0 2 2
+Raquel Araújo
+0 2 0 2 1 0 0 0 0 0 2 0 1
+Leandro Azevedo
+2 2 2 1 2 1 1 2 0 0 2 0 2
+Luiz Felipe da Rosa
+2 0 0 0 2 0 0 0 1 1 0 2 1
+Natália Silva
+0 2 1 2 0 0 0 0 1 1 1 2 1
+Luigi Freitas
+0 0 2 0 1 2 2 2 2 2 0 1 2
+Sr. Benjamin da Paz
+0 0 2 0 1 0 1 2 2 1 2 0 2
+Dr. Bruno Lopes
+0 2 2 2 0 2 1 0 0 2 1 1 1
+Lorena Oliveira
+2 0 1 0 1 1 0 2 1 0 1 0 1
+Renan Lima
+2 1 0 1 2 1 1 2 1 0 1 1 0
+Dra. Maria Vitória Farias
+2 0 0 0 1 0 2 0 2 0 2 1 0
+Srta. Pietra Nogueira
+0 1 1 2 2 2 0 1 0 2 2 0 0
+Valentina Rezende
+2 1 1 2 2 0 0 0 1 0 1 2 0
+Emanuella Sales
+1 2 0 1 2 1 2 2 2 1 2 0 1
+Lucca Correia
+0 0 1 2 2 2 1 2 1 2 0 1 0
+Dr. Ian Monteiro
+2 0 1 2 2 2 1 2 0 0 1 1 1
+Ana Lívia Ferreira
+1 2 1 0 0 2 1 2 0 2 2 1 1
+Juan Rodrigues
+2 1 0 1 1 0 0 1 0 0 1 0 2
+Raquel Rezende
+0 1 0 1 1 1 0 0 1 2 0 0 1
+Maria Gonçalves
+1 0 2 1 2 2 2 0 0 0 2 0 2
+Dra. Rafaela da Costa
+0 2 0 0 2 2 0 1 1 2 1 0 2
+João Pedro Farias
+0 1 1 1 2 1 1 1 1 0 0 0 0
+Ana da Mata
+0 0 0 1 1 1 2 0 0 1 0 1 0
+Amanda da Cunha
+0 2 0 2 0 0 2 2 2 0 0 0 1
+Bianca Martins
+1 1 0 2 2 1 2 0 1 2 2 0 1
+Beatriz Rezende
+0 0 2 2 1 1 0 2 1 1 1 0 1
+Kaique Barbosa
+0 1 2 2 2 0 2 2 2 1 0 2 0
+Esther das Neves
+1 1 2 2 0 2 2 0 2 2 1 1 2
+Sr. André da Cruz
+2 0 2 2 2 1 1 2 0 1 0 0 2
+Júlia Barros
+1 0 0 0 0 1 2 0 1 0 0 0 1
+Vinicius Caldeira
+1 2 2 0 0 2 2 1 1 1 2 0 0
+Yuri Barros
+1 1 2 1 1 2 0 2 0 1 1 2 0
+Julia Cunha
+0 0 1 2 0 2 1 1 0 1 0 0 0
+Luiz Fernando Moura
+0 2 0 1 2 2 0 0 1 1 2 2 2
+Vitor Gabriel da Costa
+2 0 0 2 0 0 0 1 1 0 2 1 0
+Maria Alice Cardoso
+2 0 0 0 0 0 2 2 0 2 1 2 0
+Dr. Davi Lucas Cavalcanti
+1 2 1 0 2 0 2 2 2 1 1 0 2
+Eduarda Aragão
+1 2 1 1 2 0 2 0 0 0 1 1 2
+Mariana Moura
+1 2 2 1 1 0 0 0 1 2 0 0 0
+Evelyn Sales
+2 0 0 0 1 0 1 2 2 1 1 2 2
+Dr. Marcelo Fogaça
+1 0 2 1 2 0 0 0 2 2 1 2 0
+Camila Ramos
+0 1 0 1 0 1 0 0 2 0 2 2 1
+Marcos Vinicius Martins
+0 0 0 2 1 1 2 1 2 2 0 1 0
+Manuela Moreira
+2 2 2 1 1 2 0 2 0 0 1 0 2
+Yasmin Costela
+2 0 2 2 1 0 2 2 2 0 0 0 2
+Alexia Silva
+0 2 0 0 1 0 2 0 0 1 1 1 0
+Luna Santos
+0 0 1 0 2 0 0 1 2 2 2 1 2
+Brenda Fogaça
+2 0 1 0 1 0 2 2 1 2 0 2 2
+Marina Lopes
+1 0 2 2 1 1 1 2 0 0 0 2 1
+Dr. Emanuel Cardoso
+2 1 1 2 1 1 0 0 2 2 2 0 2
+Dr. Yuri Mendes
+0 2 0 1 2 1 2 0 0 0 0 1 2
+Maria Julia Cardoso
+0 0 1 0 2 2 0 2 0 0 0 1 0
+João Vitor Porto
+0 2 2 0 1 0 0 0 2 2 1 1 0
+Ana Beatriz das Neves
+0 0 2 2 0 1 2 0 0 1 2 2 0
+Elisa Sales
+2 2 0 1 1 2 2 1 1 1 1 0 2
+Francisco Oliveira
+0 1 2 2 0 2 1 0 1 2 0 0 1
+João Cunha
+0 1 2 2 2 0 2 1 1 0 1 0 1
+Heloísa da Paz
+1 2 2 2 2 2 1 1 2 1 1 2 2
+Lavínia Teixeira
+2 1 1 2 2 0 2 2 0 1 2 1 1
+Dra. Marina da Cruz
+1 0 2 2 1 2 2 2 2 2 2 1 2
+Luiz Fernando Dias
+1 2 2 2 0 2 2 2 1 0 1 1 1
+Sophie Nunes
+2 1 0 0 0 1 2 1 0 0 1 1 2
+João Vitor Silveira
+2 2 0 2 0 0 1 2 0 1 2 2 0
+Vitor Hugo Gomes
+2 2 0 2 0 0 0 1 1 1 1 1 0
+Emanuella Araújo
+0 0 1 0 2 2 2 2 1 2 1 2 1
+Yago Mendes
+0 1 0 0 2 1 0 1 0 2 1 2 0
+Levi Dias
+2 0 2 0 2 2 1 2 1 2 2 2 1
+Alice Caldeira
+2 2 0 1 0 2 1 0 1 2 0 0 0
+Vitória Rezende
+2 1 1 1 2 0 2 0 2 0 0 0 2
+Luiz Henrique Fogaça
+2 0 0 0 2 2 1 1 0 0 1 2 0
+Bruno Correia
+0 1 0 2 0 0 1 0 1 2 1 1 1
+Clarice Fogaça
+2 0 2 0 1 2 0 2 1 2 2 1 1
+Larissa Pinto
+1 1 2 0 0 0 2 0 0 2 2 1 0
+Paulo da Rosa
+2 1 0 0 2 1 2 0 2 0 0 0 2
+Sr. Luiz Gustavo Ribeiro
+1 2 2 1 1 2 1 0 0 0 1 0 0
+Luiz Otávio da Mota
+0 2 0 0 1 1 2 1 0 0 2 1 0
+Srta. Evelyn Nunes
+2 2 2 2 2 0 1 2 2 0 1 0 1
+Ana Vitória Aragão
+0 2 1 0 2 0 0 0 1 1 1 0 1
+Murilo Jesus
+2 0 2 1 0 1 2 1 2 2 1 2 1
+Matheus Barbosa
+0 0 2 1 0 0 1 1 0 0 1 0 1
+Ana Lívia Farias
+0 1 1 2 1 0 1 1 1 2 2 2 2
+Dra. Maria Alice Gonçalves
+0 1 0 0 1 1 1 0 2 1 2 2 0
+João Lucas Lopes
+2 0 2 2 0 1 1 2 0 0 1 1 0
+Benício Cavalcanti
+2 2 1 0 0 0 0 0 1 2 2 2 0
+Luna Dias
+2 1 0 1 0 2 2 1 2 2 0 1 0
+Maitê Freitas
+1 2 2 1 2 2 0 1 2 1 1 0 0
+Raul Vieira
+2 0 1 2 2 2 1 1 0 1 1 0 1
+Pedro Miguel Dias
+1 0 1 1 0 1 2 0 1 2 2 2 1
+Daniel Peixoto
+2 0 0 0 0 2 0 2 2 0 0 2 1
+Carolina Cunha
+1 1 0 1 0 0 2 0 2 0 2 1 1
+João Guilherme Ferreira
+2 0 2 0 1 2 1 1 1 0 2 1 0
+João Fernandes
+1 0 1 0 1 2 0 1 0 2 2 1 1
+Laura Moraes
+2 2 0 2 2 1 1 2 1 1 0 2 2
+Luiz Felipe da Rosa
+2 2 2 1 0 1 2 1 1 0 2 0 2
+Alícia Ramos
+0 1 2 0 0 0 1 1 2 0 1 2 1
+Dr. Leonardo Gonçalves
+1 1 0 0 2 2 1 2 1 1 2 1 1
+Pedro Dias
+0 2 0 2 1 2 0 0 0 0 1 0 0
+Ana Clara Ramos
+2 1 0 2 2 1 2 1 2 2 0 1 1
+Sra. Lavínia Vieira
+2 0 1 2 0 1 0 0 0 0 2 0 2
+Pedro Monteiro
+0 1 1 2 0 1 0 0 1 2 1 2 1
+Maria Julia da Rocha
+0 0 1 2 0 1 0 1 1 2 2 1 0
+Cauê Almeida
+2 2 2 2 0 0 0 1 2 2 1 0 2
+Rafaela Sales
+1 2 0 2 1 0 2 2 2 1 0 0 2
+João Gabriel Lopes
+0 0 0 1 0 1 2 0 2 0 0 2 0
+Dr. Benjamin Gomes
+2 0 2 0 0 0 0 2 1 1 1 0 0
+Maria Alice Martins
+1 2 1 2 1 1 2 1 1 2 2 2 1
+Sra. Bruna Ribeiro
+2 2 0 0 0 2 0 2 2 0 0 1 1
+Dr. Noah Oliveira
+1 1 1 0 2 1 0 0 2 0 2 2 2
+Emanuel Rodrigues
+0 0 0 2 0 2 2 0 1 0 2 2 1
+Erick Peixoto
+0 2 2 1 1 2 0 1 1 0 2 2 2
+Srta. Maria Julia Lima
+2 0 0 2 1 0 1 2 2 0 1 1 1
+Alice Pires
+1 1 1 0 2 2 0 1 1 0 0 1 2
+Ana Vitória Moreira
+0 0 0 0 1 2 2 0 2 0 2 0 0
+Pedro Miguel Ramos
+0 2 0 1 2 1 2 1 0 2 2 0 1
+Mariane Moura
+0 2 2 1 1 0 1 1 1 0 2 0 1
+Sr. Pedro Lucas Lopes
+1 1 0 1 0 2 2 2 2 1 0 2 1
+Melissa Costela
+1 2 2 1 1 2 1 2 1 2 2 1 0
+Pietra Lima
+1 1 0 2 1 2 1 1 2 2 2 1 0
+Otávio Azevedo
+1 1 1 2 0 0 1 0 1 0 2 1 0
+Catarina Barros
+2 1 2 2 1 0 0 1 0 2 1 2 2
+Nicolas da Rosa
+1 0 1 0 0 0 0 2 2 2 2 2 0
+Kaique Dias
+2 2 2 1 2 0 1 1 1 2 2 2 0
+Maria Julia das Neves
+2 2 0 2 0 2 2 2 1 0 1 1 2
+Esther Costela
+2 1 1 0 0 0 2 2 1 0 2 1 1
+Marcela Pires
+0 1 1 2 2 2 2 2 2 2 2 2 0
+Paulo Novaes
+0 2 1 2 1 1 0 1 1 2 0 1 1
+Guilherme Aragão
+1 2 0 1 2 2 2 1 2 0 2 0 0
+João Pedro Pereira
+2 1 0 2 2 0 1 1 1 1 2 1 0
+Davi Souza
+0 1 2 0 1 2 2 1 1 1 0 1 1
+Ana Clara Campos
+0 1 2 1 0 2 2 2 0 1 1 0 1
+Dra. Pietra Oliveira
+2 2 2 1 0 1 2 0 0 0 1 0 0
+Daniel da Mota
+2 1 2 1 0 2 0 0 0 1 0 1 0
+Ryan Rodrigues
+1 2 2 0 2 1 0 0 2 1 0 0 2
+Luiza Barbosa
+0 2 0 1 1 0 0 2 0 2 1 2 0
+Bruna Gonçalves
+0 2 2 0 2 1 2 1 0 0 2 0 2
+Dra. Gabriela Nunes
+1 1 2 1 0 0 2 2 0 0 0 0 1
+Lorena da Cunha
+2 1 1 1 1 2 1 2 2 1 2 1 1
+Lucca da Cunha
+0 2 2 2 1 0 1 1 0 0 0 1 2
+Maria Eduarda Caldeira
+0 0 0 1 1 1 2 0 1 0 2 0 2
+Theo Monteiro
+1 2 1 0 0 0 1 2 0 2 0 1 1
+Lucas Gabriel Ferreira
+0 0 2 2 0 1 0 1 1 2 1 0 1
+Isabel Ribeiro
+1 1 2 0 2 0 0 2 2 0 0 0 1
+Davi Caldeira
+1 2 1 0 0 1 1 0 2 2 0 0 1
+Arthur Rodrigues
+2 2 2 0 1 0 2 0 1 0 2 1 1
+Amanda da Cunha
+2 1 0 1 1 1 2 0 2 2 1 2 2
+Vitória Novaes
+1 0 1 0 0 0 0 2 1 1 2 0 0
+Maria Eduarda Melo
+2 0 0 1 1 1 1 0 1 0 2 2 0
+Leandro Duarte
+2 2 1 2 0 0 1 0 2 0 0 1 0
+Sr. Bernardo da Cruz
+2 1 2 2 2 0 0 1 0 2 2 1 1
+Nicolas da Mata
+1 0 0 0 1 0 1 1 2 0 0 0 2
+Daniel Campos
+2 2 0 0 1 1 1 1 1 2 0 0 0
+Elisa Moraes
+0 1 1 0 2 2 0 1 2 0 2 1 0
+Isis Santos
+2 2 0 0 2 1 1 2 0 2 1 1 1
+Theo Lopes
+2 1 0 0 2 2 0 0 2 0 0 1 0
+Theo Silva
+0 1 1 1 1 1 0 2 0 0 0 1 0
+Amanda da Cunha
+0 2 0 2 2 1 1 1 2 1 1 0 1
+Nina Oliveira
+0 0 1 1 2 1 2 2 0 1 1 2 1
+Helena da Mata
+0 2 2 2 1 1 0 0 0 0 0 0 2
+Stephany Souza
+1 1 2 0 2 1 2 1 0 1 2 2 2
+Vitor Hugo Barbosa
+0 0 0 2 0 1 1 2 0 1 0 1 2
+Thales Rodrigues
+0 2 0 2 0 1 0 1 0 0 2 2 1
+João Fernandes
+0 0 2 0 0 0 1 1 0 1 0 1 1
+Esther Nunes
+1 2 1 2 1 2 2 1 0 0 2 0 1
+Laura Cunha
+2 0 0 0 0 1 0 1 1 0 2 1 2
+Heitor Nascimento
+1 1 2 1 2 2 2 0 0 1 2 1 1
+Sra. Rebeca da Rosa
+2 0 2 2 2 2 2 2 1 1 1 2 1
+Juliana Almeida
+2 2 0 1 0 2 0 0 0 2 2 0 0
+Vitor Hugo Novaes
+2 0 1 0 1 0 0 1 2 1 2 0 0
+Thiago Nunes
+2 0 0 2 0 2 1 1 1 2 1 1 2
+Lavínia Freitas
+1 1 2 1 1 2 1 1 2 2 0 2 1
+Nathan Ribeiro
+1 0 2 1 0 1 0 0 0 2 1 2 0
+Benjamin Martins
+0 0 0 2 1 2 2 0 2 0 2 1 2
+Clara Almeida
+1 0 2 1 1 0 0 2 0 2 1 2 1
+Davi Lucas Lopes
+1 2 0 0 1 2 2 0 2 2 0 2 1
+Heloísa da Paz
+0 2 1 2 1 2 0 0 1 1 2 2 0
+Pietra Farias
+0 2 2 2 2 2 2 1 1 2 0 2 0
+Srta. Valentina Santos
+1 0 1 0 1 2 1 2 0 0 2 0 1
+Pedro Henrique Barros
+1 1 1 2 1 1 2 1 1 0 1 2 1
+Thomas Nogueira
+1 0 1 1 0 1 2 2 1 1 1 2 0
+Ana Beatriz Oliveira
+1 2 2 0 0 0 2 2 2 2 0 2 2
+Sr. Alexandre Ribeiro
+0 1 2 0 0 1 2 1 2 1 2 1 2
+Henrique Dias
+0 2 2 1 1 2 2 0 1 1 2 2 0
+Diogo da Rocha
+0 2 1 2 0 0 2 1 2 2 0 2 2
+André Costela
+1 2 0 2 2 0 2 0 0 0 1 0 1
+Srta. Yasmin Rodrigues
+1 1 2 0 0 0 2 0 0 0 2 0 1
+Yasmin Ferreira
+0 0 2 2 0 2 0 2 2 0 2 0 1
+Clara Freitas
+1 2 1 1 1 2 1 1 0 1 2 1 1
+Manuela da Rosa
+0 0 2 2 0 0 1 2 2 0 2 1 2
+Marcos Vinicius Vieira
+0 1 0 0 1 0 0 1 1 0 0 2 0
+Dra. Lara Campos
+1 0 0 0 2 1 2 0 1 2 0 1 1
+Benjamin Fernandes
+0 2 2 0 1 2 2 0 1 1 0 0 1
+Clara Cardoso
+2 0 0 1 2 1 1 2 1 0 2 0 0
+Gustavo Henrique Nascimento
+2 1 1 0 0 0 1 1 0 1 0 2 2
+João Miguel Almeida
+1 2 2 2 0 0 1 1 1 0 1 1 1
+Yuri Porto
+1 1 1 1 1 0 1 0 1 2 0 0 2
+Maria Cecília Souza
+2 0 2 1 1 0 2 2 1 2 0 2 1
+Heitor Duarte
+2 2 2 0 0 2 0 1 2 1 0 1 0
+Kevin Cardoso
+1 1 2 0 2 1 2 2 1 0 1 2 0
+Srta. Maria Fernanda Alves
+2 0 2 0 1 0 2 2 1 2 1 0 2
+Davi Lucca Freitas
+2 0 0 0 1 2 0 2 2 1 2 1 0
+Srta. Maria Sophia Santos
+2 1 0 2 1 1 1 2 0 2 1 2 0
+Sr. Pedro Henrique Martins
+1 0 2 0 0 1 2 0 0 0 2 0 2
+Sra. Bárbara Castro
+0 2 0 1 0 2 1 1 0 2 0 0 2
+Helena Farias
+2 1 2 2 0 1 1 0 2 2 0 2 0
+Luiz Fernando Oliveira
+1 1 1 2 0 2 2 1 0 0 1 2 1
+Elisa da Mata
+0 2 0 2 1 1 0 1 1 1 2 1 0
+Thiago Souza
+0 2 1 0 0 1 1 2 2 0 2 0 0
+Marcelo Moreira
+0 0 0 0 2 2 1 2 2 1 2 0 1
+Alice Lima
+1 1 2 0 2 2 2 1 0 2 0 1 2
+Ana Laura Melo
+2 2 1 2 1 0 1 0 2 0 2 0 1
+Luiz Otávio Freitas
+1 2 0 2 1 2 0 2 2 1 1 0 2
+Luana Ribeiro
+2 2 1 2 0 1 2 2 2 1 2 0 0
+Luiz Fernando Fogaça
+0 1 2 1 1 0 0 1 0 0 1 1 1
+Leonardo Freitas
+2 1 2 1 2 0 0 1 2 2 1 1 0
+Srta. Maria Julia Castro
+2 2 2 2 1 0 0 2 1 2 2 1 2
+Dr. Erick da Mota
+1 2 2 0 1 0 0 1 1 2 1 0 0
+Alícia da Cunha
+0 2 1 2 1 2 1 1 1 0 0 0 0
+Lavínia Costela
+2 0 1 1 0 0 1 1 1 1 2 0 2
+Gustavo Azevedo
+1 0 1 0 0 0 1 2 2 2 0 1 2
+Sra. Olivia Moura
+0 1 0 1 0 2 2 0 1 1 1 1 0
+Isabella Correia
+2 0 1 1 0 0 1 0 2 0 2 1 2
+Dr. Cauã Caldeira
+0 1 1 2 1 1 1 1 0 2 1 0 2
+Carlos Eduardo da Cruz
+1 1 1 2 1 2 0 1 1 2 1 2 0
+Ana Carolina Rocha
+2 1 1 2 1 2 1 2 0 2 2 1 0
+Dr. João Guilherme Ramos
+0 1 0 2 2 1 1 2 2 0 2 1 2
+Alice Moura
+2 1 1 1 2 0 0 0 0 0 2 1 1
+Diogo das Neves
+0 1 0 0 2 2 1 0 2 2 1 2 0
+Maria Julia Martins
+1 2 2 0 2 1 2 1 0 2 0 2 1
+Leandro Pinto
+1 0 0 1 0 0 1 1 2 2 1 2 0
+Ana Souza
+0 1 1 1 1 2 2 2 2 2 0 1 1
+Sra. Maitê Aragão
+0 2 1 1 2 1 1 1 1 1 0 2 0
+Sr. Emanuel Alves
+0 2 1 2 1 0 0 1 1 1 1 2 0
+Sra. Isis Souza
+1 2 0 1 1 2 1 2 2 1 1 2 2
+Maria Alice Campos
+0 0 0 2 0 2 0 2 0 2 2 2 2
+Lucca Costa
+1 2 0 0 0 2 0 2 2 0 1 1 1
+Milena Silveira
+2 1 1 0 1 1 1 0 1 0 1 1 1
+Ian Costa
+0 1 2 0 1 1 1 2 2 2 1 2 2
+Srta. Valentina Vieira
+0 0 0 1 2 2 1 2 2 0 0 2 0
+Cecília Freitas
+1 0 2 0 2 2 2 2 0 1 1 0 0
+Sarah da Paz
+0 2 0 0 2 2 2 0 1 2 1 1 1
+Maysa Teixeira
+2 2 2 1 0 0 1 0 1 2 1 2 2
+Benjamin Gonçalves
+1 1 1 2 2 2 2 2 0 1 0 1 0
+Srta. Alice da Mota
+1 1 1 0 2 1 2 2 1 1 2 2 0
+Lara Gonçalves
+2 0 0 0 1 1 0 0 0 2 0 1 2
+Emanuella Duarte
+0 0 1 0 0 1 0 2 1 0 2 2 0
+Sra. Juliana Nascimento
+2 2 0 2 1 0 1 2 2 0 2 0 0
+Calebe Ferreira
+1 0 1 1 1 2 2 2 0 0 1 0 2
+Rodrigo Cardoso
+0 2 2 2 0 1 0 2 1 0 0 1 0
+Kevin Nogueira
+0 2 1 0 0 0 2 1 2 0 0 0 1
+Arthur Pereira
+0 1 2 1 2 1 0 1 1 1 1 1 0
+Lucas Porto
+0 2 0 0 0 0 2 2 1 0 0 1 1
+Mirella Almeida
+2 0 1 0 0 1 0 0 2 2 2 2 1
+Clarice Freitas
+2 0 2 0 2 2 1 0 2 2 1 0 0
+Larissa Fogaça
+1 1 1 0 1 2 2 1 1 1 2 1 1
+Pedro Almeida
+2 2 0 1 1 1 0 1 0 0 2 1 0
+Caroline da Mata
+1 1 1 2 0 1 0 2 1 2 2 2 0
+Lara Fogaça
+0 2 2 2 2 2 0 2 0 2 1 1 2
+Letícia Cardoso
+0 0 2 0 0 2 0 0 1 0 1 0 2
+João Vitor Moreira
+2 1 0 2 2 1 1 2 0 2 0 0 2
+Sra. Sofia Cavalcanti
+2 1 0 1 1 0 2 1 2 0 2 1 1
+Marcos Vinicius Castro
+1 0 0 2 0 1 2 0 2 2 0 2 0
+Augusto Cardoso
+0 1 2 2 2 0 2 1 1 2 1 1 1
+Sofia Monteiro
+2 2 1 1 2 2 1 2 2 1 2 1 0
+Ana Lívia Correia
+2 1 0 1 0 0 1 0 0 2 2 0 0
+Clarice Cardoso
+1 0 0 1 1 2 0 1 1 2 0 2 1
+Srta. Júlia Moura
+0 0 1 2 0 1 0 2 2 0 2 2 2
+Vitor Gabriel Nascimento
+1 2 1 0 2 0 0 2 1 2 1 1 0
+Bianca Pereira
+1 1 2 2 1 1 1 1 0 1 1 2 2
+Miguel Teixeira
+1 1 0 0 1 2 1 2 2 0 1 2 1
+Sophia Cunha
+0 0 2 2 0 0 1 1 0 2 0 2 2
+João Felipe Pires
+2 1 0 0 2 0 1 0 2 1 1 0 1
+Lara da Cunha
+0 1 1 0 1 0 2 0 2 2 2 1 2
+Ana Sophia da Costa
+1 0 2 0 1 2 2 1 0 0 2 2 1
+Pedro Lucas Nascimento
+2 2 2 0 1 1 0 2 1 1 2 1 2
+Isaac Pinto
+1 0 0 0 2 2 2 0 0 1 0 0 2
+Davi Lucca Barbosa
+2 1 2 0 2 0 0 2 1 0 2 2 0
+Laura Gomes
+0 2 1 1 1 0 0 2 2 2 2 2 1
+Rafaela Caldeira
+0 0 1 2 1 1 0 0 0 2 0 0 1
+Amanda Pinto
+0 0 1 2 1 1 1 2 0 1 0 2 1
+Noah Nunes
+0 0 2 0 1 1 1 0 2 1 0 1 0
+Srta. Mirella da Paz
+1 2 1 0 0 1 2 0 0 2 1 0 2
+Eloah Nogueira
+2 2 0 2 0 0 1 0 1 2 1 2 1
+Maitê da Luz
+2 2 1 0 0 0 2 1 2 2 1 0 1
+Eduarda Martins
+1 0 2 0 1 1 2 1 0 1 1 1 1
+Lara Pires
+2 1 2 1 1 1 0 1 2 2 2 1 0
+Juan Melo
+1 2 2 0 0 2 2 0 1 0 0 1 2
+Brenda Lopes
+1 0 2 0 1 1 1 1 0 1 1 2 0
+Maria Vitória Pires
+1 1 2 1 0 1 2 0 2 2 2 1 2
+Rodrigo Ramos
+0 2 2 2 2 0 1 2 2 0 2 1 1
+André Santos
+2 1 2 0 2 2 2 1 2 2 2 2 2
+Igor Freitas
+1 2 2 0 2 1 0 2 0 0 0 2 2
+Bianca da Rocha
+1 0 0 2 2 2 1 2 1 0 0 1 1
+Srta. Letícia Sales
+0 2 1 0 2 2 1 0 1 1 0 2 1
+Heitor Nunes
+0 2 1 0 0 1 1 2 2 1 2 1 0
+Maria Eduarda Pinto
+2 1 2 1 0 0 0 1 2 1 2 1 1
+Clarice Vieira
+1 2 0 0 2 1 2 0 2 1 1 1 0
+Dr. Henrique da Paz
+2 1 0 1 2 2 0 1 1 2 0 2 2
+Luiz Felipe da Paz
+2 0 0 0 1 1 0 2 2 0 2 0 1
+Igor Santos
+1 0 1 1 1 0 1 0 1 1 1 0 1
+Rafaela Pinto
+0 1 0 0 2 1 2 2 1 2 1 0 2
+Davi Lucas da Cunha
+0 2 1 2 2 0 0 2 2 2 2 0 1
+João Pedro Nascimento
+2 1 2 1 0 2 0 1 2 1 2 0 0
+Sr. Kaique Novaes
+2 2 0 2 0 2 2 1 0 2 1 0 1
+Francisco Gonçalves
+1 0 2 1 2 2 0 1 1 0 1 0 1
+Evelyn Almeida
+0 1 1 2 2 1 0 1 1 0 2 1 0
+Srta. Ana Laura Ramos
+0 2 0 0 0 1 0 1 2 1 2 0 0
+Pedro Henrique Fernandes
+1 2 2 2 1 0 2 1 2 2 1 2 2
+João Vitor Campos
+2 2 0 0 0 2 2 2 0 0 2 0 1
+Giovanna da Mota
+0 1 2 2 2 0 1 0 2 0 2 1 1
+Nathan Caldeira
+1 1 2 2 1 2 2 1 0 1 0 2 0
+Theo Teixeira
+2 0 1 1 0 0 1 0 2 2 0 0 2
+Caroline Barbosa
+2 2 2 2 0 2 0 0 0 2 0 1 1
+Matheus Pinto
+0 2 1 2 2 1 0 2 1 0 0 0 0
+João Lucas Viana
+2 1 1 0 1 0 2 0 1 0 2 1 1
+João Pedro Teixeira
+0 1 1 1 2 2 1 2 2 0 0 1 1
+Ana Julia Porto
+0 1 0 2 0 2 0 1 2 0 0 0 2
+Stephany Lopes
+1 2 2 2 1 0 2 0 0 2 1 1 1
+Isadora Lima
+0 0 0 0 0 2 2 0 1 1 2 0 1
+Emanuella da Mota
+1 2 1 1 2 1 0 1 2 1 2 0 0
+Kevin Barbosa
+0 0 2 2 1 1 0 2 1 1 1 1 2
+Dr. Diego Caldeira
+0 2 1 0 0 0 1 0 2 1 2 0 1
+Luigi da Rocha
+1 1 2 2 1 1 0 0 1 1 2 0 1
+Luigi Souza
+0 2 0 0 1 0 0 0 0 2 1 1 1
+Maria Eduarda Teixeira
+0 0 0 2 0 2 2 2 2 1 0 1 2
+Sra. Olivia Melo
+2 2 2 0 1 2 0 1 1 1 0 2 2
+Matheus Moura
+1 2 1 0 0 2 2 2 0 0 2 0 1
+Ian Duarte
+0 0 0 2 0 0 2 2 2 2 2 2 1
+Ana Clara Gomes
+0 0 1 2 0 2 1 2 1 2 1 2 1
+Maria Luiza Barros
+2 2 1 0 2 2 2 0 0 0 2 1 1
+Beatriz Nascimento
+1 2 1 0 1 1 1 0 0 0 2 1 0
+João Cardoso
+0 2 1 1 2 1 0 0 2 1 2 0 1
+Sr. Daniel Gomes
+1 2 2 2 2 1 0 2 1 2 2 2 1
+Bárbara Gonçalves
+1 0 0 1 2 0 0 2 1 2 2 1 1
+Ryan da Cunha
+2 2 2 2 0 2 0 0 2 2 0 2 0
+Bryan Almeida
+1 0 2 2 2 2 0 0 2 0 2 2 2
+Marcela Ramos
+1 2 2 1 1 0 0 1 0 2 2 0 1
+Antônio Rezende
+2 0 2 1 0 0 1 0 0 1 2 1 1
+Gustavo Henrique Ribeiro
+1 0 2 1 1 2 2 0 0 1 2 1 0
+Amanda da Cunha
+2 0 0 0 1 2 0 2 2 0 1 2 2
+Matheus Caldeira
+0 1 2 1 1 0 1 2 0 2 2 0 2
+Lucas Nascimento
+2 0 1 2 2 2 1 0 1 2 1 0 0
+Isabelly Azevedo
+1 2 2 2 0 1 0 1 0 2 1 1 1
